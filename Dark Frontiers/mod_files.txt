@@ -1,1 +1,4 @@
+add update files/rpl_texture_btnguide.pac
+add update files/ui_common.pac
+add update files/ui_gamemodestage.pac
 add mod.ini
