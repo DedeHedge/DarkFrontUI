@@ -1,3 +1,7 @@
+## Dark Frontiers V.1.2 
+- Combo Number Restored
+- Removed the accidental Herobrine placeholder
+
 ## Dark Frontiers V.1.0.0
 - Actually Makes THOSE CHANGES.
 
