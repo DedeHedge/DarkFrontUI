@@ -1,9 +1,2 @@
-add raw/ui/rpl_texture_btnguide.pac
-add raw/ui/rpl_texture_island_w1r03.pac
-add raw/ui/rpl_texture_island_w1r04.pac
-add raw/ui/rpl_texture_island_w1r05.pac
-add raw/ui/rpl_texture_island_w2r01.pac
-add raw/ui/rpl_texture_island_w3r01.pac
 add raw/ui/ui_common.pac
-add raw/ui/ui_gamemodestage.pac
 add mod.ini
