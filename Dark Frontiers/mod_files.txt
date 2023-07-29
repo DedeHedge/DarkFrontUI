@@ -1,2 +1,2 @@
-add raw/ui/ui_common.pac
+add raw/ui/ui_gamemodestage.pac
 add mod.ini
