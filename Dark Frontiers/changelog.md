@@ -1,3 +1,9 @@
+## Dark Frontiers V.1.3.1
+- Config Added
+- Island UI Edit Mod Support
+- Snowy Ouranos Map File Added Along With Instructions
+- preparing for the damage Update 3 will have.
+
 ## Dark Frontiers V.1.3
 - Changes Birthday UI Colors 
 
