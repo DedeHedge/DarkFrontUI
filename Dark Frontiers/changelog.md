@@ -1,4 +1,4 @@
-## Dark Frontiers V.1.3.1
+## Dark Frontiers V.1.3.2
 - Config Added
 - Island UI Edit Mod Support
 - Snowy Ouranos Map File Added Along With Instructions
