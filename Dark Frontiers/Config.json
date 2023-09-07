@@ -1,0 +1,42 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Style Mode",
+      "Elements": 
+         [
+			{
+               "Name":"IncludeDir0",
+               "DisplayName":"Choose.",
+               "Description":[
+                  "Changes which image is shown"
+               ],
+               "Type":"CostumeEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"raw"
+            }
+			
+         ]
+      }
+   ],
+   "Enums":{
+    "CostumeEnum": [
+        {
+            "DisplayName": "Dark Frontiers - Base",
+            "Value": "dark",
+            "Description": [
+                "The Base Experience for Dark Frontiers (Dark Mode)"
+            ]
+        },
+        {
+            "DisplayName": "Island UI Edit Support",
+            "Value": "uiedit",
+            "Description": [
+                "Adds Support for Link-Ling's Island UI Edit Mod! (it's really good looking)"
+            ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}

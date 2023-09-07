@@ -1,0 +1,7 @@
+- Included with this Update, i added a file that contains the Dark Frontiers's version of the Snowy Ouranos Map UI. 
+
+To put it in game simply choose from the "dark" or "uiedit" folder and drag it all the way into the "ui" folder,
+ 
+then replace the current file inside! i would've manually supported it, but it would've taken up more space then needed. 
+
+Thanks For Playing Dark Frontiers, and stay tuned for the next update!
