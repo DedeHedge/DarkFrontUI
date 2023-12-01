@@ -1,3 +1,6 @@
+## Dark Frontiers V.1.3.5
+- Fixed An Issue Where Character Icons Dont Show In Final Horizon
+
 ## Dark Frontiers V.1.3.4
 - Basic Support For Update 3
 - Added Title Screen From Island UI Edit Mod
